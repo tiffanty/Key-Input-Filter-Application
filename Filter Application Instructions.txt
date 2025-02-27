@@ -1,0 +1,15 @@
+To run the code, you hit run (play button) then it will load the orginal image of Harry Styles showing off his 'Late Late' show tattoo.
+\
+Here is what will happen if you press key 1-4 (in any order):\
+\
+\
+\
+Key 1 will show you the grayscale filter over the original picture.\
+\
+Key 2 will show you the contrast filter over the original picture.\
+\
+Key 3 will show you the Gaussian blur over the original picture.\
+\
+Key 4 will show you the Sobel filter applied to the original picture.\
+\
+And lastly, key 0 will show you the picture back and it's original form.}
